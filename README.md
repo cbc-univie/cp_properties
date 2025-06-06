@@ -1,7 +1,7 @@
 # Condensed phase properties
 
 
-This repo condensed_phase_properties contains the functions and exemplary input data for water that were used to compute thermodynamic properties. In the data folder, all published data is available (thermodynamic data and diffusion constants).
+This repo contains the functions and exemplary input data for water that were used to compute thermodynamic properties. In the data folder, all published data is available (thermodynamic data and diffusion constants).
 
 
 ## Features
